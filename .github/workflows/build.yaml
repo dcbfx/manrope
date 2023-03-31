@@ -31,7 +31,7 @@ jobs:
       with:
         name: Artifacts
         path: |
-          .
+          fonts
 #     - name: Remove temp folder
 #       run: |
 #           rm -rf for-gh-pages
