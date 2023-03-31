@@ -157,11 +157,11 @@ custom = Extra;
 customParameters = (
 {
 name = typoAscender;
-value = 2132;
+value = 1932;
 },
 {
 name = typoDescender;
-value = -600;
+value = -400;
 },
 {
 name = typoLineGap;
@@ -169,19 +169,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2132;
+value = 1932;
 },
 {
 name = winDescent;
-value = 600;
+value = 400;
 },
 {
 name = hheaAscender;
-value = 2132;
+value = 1932;
 },
 {
 name = hheaDescender;
-value = -600;
+value = -400;
 },
 {
 name = "Master Icon Glyph Name";
