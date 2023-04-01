@@ -157,7 +157,7 @@ custom = Extra;
 customParameters = (
 {
 name = typoAscender;
-value = 1732;
+value = 1932;
 },
 {
 name = typoDescender;
@@ -169,7 +169,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1732;
+value = 1932;
 },
 {
 name = winDescent;
@@ -177,7 +177,7 @@ value = 400;
 },
 {
 name = hheaAscender;
-value = 1732;
+value = 1932;
 },
 {
 name = hheaDescender;
@@ -212,7 +212,7 @@ custom = Extra;
 customParameters = (
 {
 name = typoAscender;
-value = 1732;
+value = 1932;
 },
 {
 name = typoDescender;
@@ -224,7 +224,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1732;
+value = 1932;
 },
 {
 name = winDescent;
@@ -232,7 +232,7 @@ value = 400;
 },
 {
 name = hheaAscender;
-value = 1732;
+value = 1932;
 },
 {
 name = hheaDescender;
