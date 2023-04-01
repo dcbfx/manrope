@@ -188,7 +188,7 @@ name = "Master Icon Glyph Name";
 value = a;
 }
 );
-descender = -400;
+descender = -600;
 iconName = Light_SemiCondensed;
 id = "CAA188E2-8C62-414B-93AE-B576BEB044DB";
 name = ExtraLight;
@@ -243,7 +243,7 @@ name = "Master Icon Glyph Name";
 value = a;
 }
 );
-descender = -400;
+descender = -600;
 iconName = Bold_SemiCondensed;
 id = "0DA27741-1AFD-43F2-A947-40AFBF8D6498";
 name = ExtraBold;
